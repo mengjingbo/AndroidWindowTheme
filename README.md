@@ -1,6 +1,6 @@
-# AndroidWindowTheme
+# Android Window Theme
 
-android中常见window属性
+android中常见window主题属性
 
 ### 状态栏，导航栏
 |属性|取值类型|描述|
